@@ -2,7 +2,7 @@
 
 ## Past Works
 
-- bahdahshin.com
+- https://bahdahshin.com
   - Personal Profile Web Page
 - https://bahdah.github.io/cookbook/
   - Personal Cookbook
