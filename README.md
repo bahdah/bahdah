@@ -1,4 +1,4 @@
-# Bahdah Shin Profile Page
+# Bahdah Shin Profile
 
 ## Past Works
 
