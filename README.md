@@ -1,6 +1,6 @@
 # Bahdah Shin Profile
 
-## Past Works
+## Past Work
 
 - https://bahdahshin.com
   - Personal Profile Web Page
